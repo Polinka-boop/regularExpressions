@@ -1,0 +1,10 @@
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.csproj.AssemblyReference.cache
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.Form1.resources
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.Properties.Resources.resources
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.csproj.GenerateResource.cache
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\bin\Debug\regularExpressions.exe.config
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\bin\Debug\regularExpressions.exe
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\bin\Debug\regularExpressions.pdb
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.exe
+C:\Users\Polina\source\repos\regularExpressions\regularExpressions\obj\Debug\regularExpressions.pdb
